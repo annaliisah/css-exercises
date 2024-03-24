@@ -1,0 +1,18 @@
+
+.esimene {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+
+}
+
+.teine {
+    background-color: yellow;
+
+}
+
+.esimene, 
+.teine {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
